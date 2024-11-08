@@ -21,8 +21,7 @@ export default function Home() {
             Education outside the classroom.
           </h1>
           <p className="text-3xl font-semibold w-[75%]">
-            A platform to bring new friends around you in a way that is fun for
-            all
+            Enhance your learning capabilities without difficulty or worry
           </p>
           <div className="grid grid-cols-2">
             <div className="grid col-span-1">
